@@ -1,0 +1,22 @@
+{
+    "list": [
+        {
+            "id": "content-01",
+            "title":"Economia Liberal",
+            "initial_content": "O modelo liberal de economia gera desigualdade da distribuição de riquezas enquanto o socialista reparte igual pobreza. O modelo estatal de economia é incapaz de gerar riquezas pelo simples fato de que Estado não produz nada.",
+            "hidden_content": "Os recursos estatais advém de impostos compulsórios de quem produz. A riqueza produzida é naturalmente repartida por todos que fazem parte da cadeia produtiva. Já o bem estar social,que de fato não é uma mé ideia como um todo, a longo prazo gerou prejuízos pela falta de produção. A própria Suécia, modelo disso, viu ma derrota da social democracia nas últimas eleições. A França, que implementa tal modelo desde o pós guerra está quebrada. Quem vem em melhor situação econômica na Europa é justamente Inglaterra e Alemanha... por que será?"
+        },
+        {
+            "id": "content-02",
+            "title":"Lorem Ipsum",
+            "initial_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie auctor neque nec posuere. Ut quis purus vestibulum ante consequat faucibus.",
+            "hidden_content": "Pellentesque congue tempus mauris ac mollis. Vestibulum mattis pharetra nulla. Suspendisse sapien dui, gravida fringilla quam sit amet, sollicitudin tempus ante. Donec nunc mauris, viverra at fermentum iaculis, viverra in nunc. Sed sit amet turpis euismod, luctus diam non, vehicula risus. Duis lacinia magna vel magna pulvinar, at auctor libero pharetra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec eget maximus ex. Mauris et libero orci. Cras tincidunt tellus vel libero aliquet, et luctus dui semper. Nullam suscipit ut dolor nec aliquet."
+        },
+        {
+            "id": "content-03",
+            "title":"Quisquam Est",
+            "initial_content": "Cras eu euismod mauris. Etiam arcu urna, malesuada in fermentum eu, hendrerit vitae nibh. Phasellus varius, libero in placerat vestibulum, enim nisl auctor ante, sit amet ultricies magna justo tincidunt justo.",
+            "hidden_content": "Donec maximus sodales lacus eu pretium. Donec massa dolor, sodales vitae ultricies a, sollicitudin ac lorem. Suspendisse potenti. Donec maximus nibh felis, nec blandit tellus hendrerit id. Etiam ac sollicitudin elit. Cras ex lectus, fermentum id risus vitae, tristique tincidunt nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin interdum ultrices libero venenatis vulputate. Curabitur congue orci non neque efficitur egestas. Duis vulputate enim in dui fringilla, eu consequat mauris convallis."
+        }
+    ]
+}

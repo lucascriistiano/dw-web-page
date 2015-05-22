@@ -1,0 +1,5 @@
+•  Realize com funções Javascript a validação do formulário definido para o seu site sobre desenvolvimento Web (definido na prática 3)
+	–  Verificar que todos os campos obrigatórios estão preenchidos antes de enviar para o servidor
+	–  Verificar se campos numéricos contem apenas números
+	–  Verificar formato de datas, CPF, etc. de acordo conforme previsto no seu formulário.
+	–  Atenção: Mesmo que esta validação esteja sendo feita no PHP, este exercício requer a validação com JS

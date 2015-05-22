@@ -1,0 +1,149 @@
+
+body {
+	background-color: #AAC8D3;
+	color: #002938;
+}
+
+h1 {
+	color: #002938;
+}
+
+p {
+	color: #002938;
+}
+
+a {
+	color: #0AB4F5;
+}
+
+a:active {
+	color: #002938;
+}
+
+/* ---------------- Fontes ---------------- */
+#site_title {
+	font-size: 45px;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.title {
+	font-size: 35px;
+}
+
+.subtitle {
+	font-size: 25px;
+}
+
+/* ---------------- Containers ---------------- */
+#menu {
+	background-color: #005A7C;
+	height: 50px;
+	text-align: center;
+	vertical-align: center;
+	padding: 1px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#menu li {
+	color: #FFFFFF;
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+	font-size: 20px;
+}
+
+#menu a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#menu a:hover {
+	color: #0AB4F5;
+}
+
+#menu a:active {
+	color: #002938;
+}
+
+#footer {
+	/*color: #AAC8D3;*/
+	color: #FFFFFF;
+	background-color: #005A7C;
+	padding: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.content {
+	background: rgba(255, 255, 255, 0.7);
+	padding: 5px;
+	/*margin-top: 10px;*/
+	/*margin-bottom: 10px;*/
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+/* ---------------- Items do formulário ---------------- */
+/*input {
+	border: 1px solid;
+	border-radius: 4px;
+}
+*/
+
+/*input[type=submit] {
+	padding:5px 50px;
+	background: #008FC5;
+	color: #FFFFFF;
+	border:0 none;
+	cursor:pointer;
+	border-radius: 5px;
+	font-size: 1em;
+}*/
+
+.textinput {
+	border: 1px solid;
+	border-radius: 4px;
+	border-color: #AAC8D3;
+	line-height: 15px;
+}
+
+.button {
+	padding:5px 50px;
+	background: #008FC5;
+	color: #FFFFFF;
+	border:0 none;
+	cursor:pointer;
+	border-radius: 5px;
+	font-size: 1em;
+}
+
+label {
+	display: block;
+	margin-bottom: 20px;
+}
+
+.field_obs {
+	color: red;
+}
+
+.initial-content {
+	display: inline;
+}
+
+.hidden-content {
+	display: inline;
+}
+
+/* ---------------- Páginas Específicas ---------------- */
+/* ---------------- Quem sou ---------------- */
+#foto_perfil {
+	width: 110px;
+	float: left;
+	margin-left: 5px;
+	margin-right: 20px;
+}
+

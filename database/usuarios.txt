@@ -1,0 +1,2 @@
+admin,admin,Administrador,123.456.789-10,1995-09-27,masculino,luasunas@hotmail.com,5856856,sadm,153,kasdjiaosjdad,aisdjasodjasd,MG,281513813
+lucas,123456,Lucas Cristiano,123.456.789.10,1995-09-27,masculino,lucascristiano27@gmail.com,98.765-43,Sem nome,234,Inexistente,Natal,RN,87657467
